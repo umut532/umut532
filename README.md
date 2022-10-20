@@ -73,13 +73,9 @@
 
 <br/>  
 
-
-## Recent Blog Posts  ssdsada
-  
-
 <br/>  
 
-
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8a8wsut144x0xkz4d6a3sv6va&cover_image=true&theme=default&show_offline=false&bar_color=ffffff&bar_color_cover=true" /></div>  
 
 <br/>  
 
