@@ -1,9 +1,9 @@
 <div align="center">
-<img src="[https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" align="center" style="width: 100%" />
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Ümit, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
+### <div align="center">👋I'm Ümit, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
   
 
 - 🔭 I’m currently working on my freelance project  
