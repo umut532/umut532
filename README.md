@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images5.alphacoders.com/423/423148.jpg" align="center" style="width: 100%" />
+<img src="https://images5.alphacoders.com/423/423148.jpg" align="center" style="width:600px;height:300px;" />
 </div>  
   
   https://rishavanand.github.io/static/images/greetings.gif
