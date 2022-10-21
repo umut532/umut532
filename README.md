@@ -1,10 +1,13 @@
-<div align="center">
+
+<div align="center"> 
 <img src="https://images5.alphacoders.com/423/423148.jpg" align="center" style="height:350px;" />
 </div>  
   
+ <div align="right"><img src="https://komarev.com/ghpvc/?username=umut532&&style=flat-square" align="center" "></div>
  
 ### <div align="center">👋I'm Ümit, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
   
+
 
 - 🔭 I’m currently working on my freelance project  
   
@@ -46,9 +49,7 @@
 </div>  
 
 
-<br/>  
 
-<br/>  
 
 
 ## Connect with me  
@@ -75,37 +76,20 @@
 
 
 
-
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umut532&show_icons=true&count_private=true&hide_border=true" align="center" />
-   <br/><br/>     <hr></hr>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umut532&hide_border=true&layout=compact" align="center" />
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umut532&hide_border=true&layout=compact" align="center" style="height:193px;"/>
 </div>  
 
 <br/><br/>  
-
-
-
-
-
-
-
-
-
+##
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8a8wsut144x0xkz4d6a3sv6va&cover_image=true&theme=default&show_offline=false&bar_color=ffffff&bar_color_cover=true" /></div>  
 
-<br/>  
+<br/><br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=umut532&&style=flat-square" align="center" />
-</div>  
-
-
-  
-
-<br/>  
-
+##
 <div align="center">
             <a href="https://www.buymeacoffee.com/umut532" target="_blank" style="display: inline-block;">
                 <img
@@ -115,5 +99,3 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
