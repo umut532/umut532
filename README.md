@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://images5.alphacoders.com/423/423148.jpg" align="center" style="width:600px;height:300px;" />
+<img src="https://images5.alphacoders.com/423/423148.jpg" align="center" style="width:850px;height:350px;" />
 </div>  
   
-  https://rishavanand.github.io/static/images/greetings.gif
+ 
 ### <div align="center">👋I'm Ümit, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
   
 
