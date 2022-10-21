@@ -22,7 +22,7 @@
 
 <br/>  
 
-<div style="color=yellow">
+<div style="color:yellow;">
 ## Languages and Tools 
 </div>
 <div align="center">  
