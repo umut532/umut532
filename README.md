@@ -1,10 +1,3 @@
-
-<div align="center"> 
-<img src="https://images5.alphacoders.com/423/423148.jpg" align="center" style="height:350px;" />
-</div>  
-  <br>
-
- 
 ### <div align="center">👋I'm Ümit, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
   
 
